@@ -24,7 +24,7 @@ Waiting for publication
 This dataset is distributed under CC-BY 4.0 License. 
 
 ## Bibtex
-'''bibtex
+```bibtex
 @misc{welding_dataset,
   author       = {J.F., S.L., H.Z., and J.Q.},
   title        = {Continuous Frame Image Dataset for Welding State Detection in Intelligent Laser Welding(MoltenPool2D)},
@@ -32,4 +32,4 @@ This dataset is distributed under CC-BY 4.0 License.
   howpublished = {\url{https://github.com/finale0721/MoltenPool2D-Dataset-for-Laser-Welding}},
   note         = {License: CC BY 4.0}
 }
-'''
+```
