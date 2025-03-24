@@ -5,7 +5,7 @@ The study aims to construct a high-quality continuous frame image dataset of las
 This dataset focus on penetration state identification and prediction in laser welding process by analysing the image and video of molten pool and plasma in welding process.
 
 ## Paper Link:
-Waiting
+Waiting for publication
 
 ## Data Download Link:
 [Google Drive](https://drive.google.com/drive/folders/1p0Z62MU60zTgB_ULlLgVH3iUv8kUt5T8?usp=drive_link)
@@ -24,16 +24,12 @@ Waiting
 This dataset is distributed under CC-BY 4.0 License. 
 
 ## Bibtex
+'''bibtex
 @misc{welding_dataset,
-
   author       = {J.F., S.L., H.Z., and J.Q.},
-  
   title        = {Continuous Frame Image Dataset for Welding State Detection in Intelligent Laser Welding(MoltenPool2D)},
-  
   year         = {2025},
-  
   howpublished = {\url{https://github.com/finale0721/MoltenPool2D-Dataset-for-Laser-Welding}},
-  
   note         = {License: CC BY 4.0}
-  
 }
+'''
