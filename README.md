@@ -29,7 +29,6 @@ This dataset is distributed under CC-BY 4.0 License.
   author       = {J.F., S.L., H.Z., and J.Q.},
   title        = {Continuous Frame Image Dataset for Welding State Detection in Intelligent Laser Welding(MoltenPool2D)},
   year         = {2025},
-  howpublished = {\url{https://github.com/finale0721/MoltenPool2D-Dataset-for-Laser-Welding}},
-  note         = {License: CC BY 4.0}
+  howpublished = {\url{https://github.com/finale0721/MoltenPool2D-Dataset-for-Laser-Welding}}
 }
 ```
